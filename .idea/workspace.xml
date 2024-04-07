@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdc6fa96-aca9-4616-b98d-6409bd199309" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fastApitest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Golovin_pusti_v_IKT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/asm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/asm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/cpp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/cpp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/csharp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/csharp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/dart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/dart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/go.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/kotlin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/kotlin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/python.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/rust.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/rust.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sql.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sql.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
-    </list>
+    <list default="true" id="cdc6fa96-aca9-4616-b98d-6409bd199309" name="Changes" comment="1st working version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Leokudgithub"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Leokudgithub/programming_languages_web_app.git",
+    "accountId": "4229833d-b1cc-4953-aff1-4cf1e6b24f78"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -181,12 +156,36 @@
       <workItem from="1712409427983" duration="1000" />
       <workItem from="1712481774800" duration="5552000" />
       <workItem from="1712494228115" duration="1939000" />
-      <workItem from="1712497684279" duration="8456000" />
+      <workItem from="1712497684279" duration="8903000" />
     </task>
+    <task id="LOCAL-00001" summary="1st working version">
+      <option name="closed" value="true" />
+      <created>1712507326826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712507326826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st working version" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st working version" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fastApitest$fastApitest.coverage" NAME="fastApitest Coverage Results" MODIFIED="1712506450238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
