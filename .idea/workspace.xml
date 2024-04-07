@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdc6fa96-aca9-4616-b98d-6409bd199309" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/fastApitest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Golovin_pusti_v_IKT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/asm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/asm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cpp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cpp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/csharp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/csharp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/go.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/kotlin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/kotlin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/python.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/rust.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/rust.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sql.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FastAPI main" />
+        <option value="FastAPI test_main" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2crayABYAoKc4UCIwGal69a3dOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "FastAPI.fastApitest.executor": "Run",
+    "HTTP Request.test_main | #3.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oliak\PycharmProjects\fastApitest\static" />
+      <recent name="C:\Users\oliak\PycharmProjects\fastApitest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="FastAPI.fastApitest">
+    <configuration name="test_main | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" index="3" requestIdentifier="#3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fastApitest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fastApitest" type="Python.FastAPI">
+      <option name="file" value="$PROJECT_DIR$/main.py" />
+      <module name="fastApitest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="HTTP Request.test_main | #3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc6fa96-aca9-4616-b98d-6409bd199309" name="Changes" comment="" />
+      <created>1708872405601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708872405601</updated>
+      <workItem from="1708872458503" duration="2355000" />
+      <workItem from="1708882010195" duration="61000" />
+      <workItem from="1708883195308" duration="5000" />
+      <workItem from="1708940517566" duration="124000" />
+      <workItem from="1708942179169" duration="29000" />
+      <workItem from="1708944365973" duration="287000" />
+      <workItem from="1709054988051" duration="9000" />
+      <workItem from="1709369614477" duration="400000" />
+      <workItem from="1709733299728" duration="77000" />
+      <workItem from="1709834319500" duration="1764000" />
+      <workItem from="1709836392521" duration="480000" />
+      <workItem from="1709895217544" duration="20000" />
+      <workItem from="1710962617506" duration="976000" />
+      <workItem from="1711113599184" duration="22000" />
+      <workItem from="1712331493704" duration="3777000" />
+      <workItem from="1712339172681" duration="14000" />
+      <workItem from="1712340926392" duration="1011000" />
+      <workItem from="1712409427983" duration="1000" />
+      <workItem from="1712481774800" duration="5552000" />
+      <workItem from="1712494228115" duration="1939000" />
+      <workItem from="1712497684279" duration="8456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fastApitest$fastApitest.coverage" NAME="fastApitest Coverage Results" MODIFIED="1712506450238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/fastApitest$main.coverage" NAME="main Coverage Results" MODIFIED="1712506443675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+body{
+background-color: aquamarine;
+}
+#clock{
+      font-family: "Press Start 2P", system-ui;
+    text-align: center;
+}
+.mainText{
+    font-family: "Press Start 2P", system-ui;
+    color: darkslategrey;
+}
+.programmingLanguage{
+    text-align: center;
+    font-family: "Press Start 2P", system-ui;
+    color: darkslategrey;
+    align-content: center;
+    width: 25%;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    flex-shrink: 1;
+    margin: 25px;
+    transition: all 0.3s;
+    position: relative;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+
+}
+img {
+    background-color: transparent;
+}
+.programmingLanguage:hover {
+            transform: scale(1.1);
+}
+.programmingLanguage::after {
+            content: "Читать далее...";
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(255, 255, 255, 0.7);
+            padding: 5px;
+            border-radius: 5px;
+            opacity: 0;
+            transition: opacity 0.3s;
+}
+.programmingLanguage:hover::after {
+            opacity: 1;
+}
