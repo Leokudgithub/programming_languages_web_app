@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from starlette.responses import HTMLResponse
+import uvicorn
 app = FastAPI()
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
@@ -14,3 +15,5 @@ async def read_root(lang:str):
         return HTMLResponse(content=open(f"static/{lang}.html", "r", encoding="UTF-8").read(), status_code=200)
     else:
         return HTMLResponse(content=open(f"static/404.html", "r", encoding="UTF-8").read(), status_code=200)
+if __name__ == '__main__':
+    uvicorn.run(app)
