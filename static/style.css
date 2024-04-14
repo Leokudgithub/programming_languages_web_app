@@ -54,5 +54,7 @@ img {
 
 
     li {
-      margin-bottom: 30px; /* задаем отступ между пунктами */
+      margin-bottom: 30px; /* задаем отступ между пунктами */}
+    a{
+        color: black;
     }

@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cdc6fa96-aca9-4616-b98d-6409bd199309" name="Changes" comment="1st working version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/cpp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +169,9 @@
       <workItem from="1712494228115" duration="1939000" />
       <workItem from="1712497684279" duration="10440000" />
       <workItem from="1712511667228" duration="5624000" />
-      <workItem from="1712576794055" duration="586000" />
+      <workItem from="1712576794055" duration="721000" />
+      <workItem from="1712577981835" duration="44000" />
+      <workItem from="1712661137415" duration="2195000" />
     </task>
     <task id="LOCAL-00001" summary="1st working version">
       <option name="closed" value="true" />
@@ -197,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712509862988</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1st working version">
+      <option name="closed" value="true" />
+      <created>1712577415697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712577415697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +228,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fastApitest$fastApitest.coverage" NAME="fastApitest Coverage Results" MODIFIED="1712511744328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/fastApitest$main.coverage" NAME="main Coverage Results" MODIFIED="1712506443675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fastApitest$main.coverage" NAME="main Coverage Results" MODIFIED="1712577372859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
